@@ -1,0 +1,4 @@
+data/
+checkpoints_sf/
+runs_sf_final/
+src/__pycache__/*
